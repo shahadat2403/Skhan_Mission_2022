@@ -124,6 +124,13 @@ p{
     padding: 2%;
     background-color: rgb(180, 221, 233);
 }
+.p-5{
+    text-align: center;
+    color: darkmagenta;
+}
+#p-5{
+    text-align: center;
+}
 .Responsive{
     display: flex;
     margin-bottom: 50px;
