@@ -1,0 +1,75 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.page_margin{
+    margin-left:50px;
+    margin-right: 50px;
+}
+.color_h1{
+    color: dodgerblue;
+}
+h1{
+    font-size: 70px;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+}
+h4{
+    font-size: 20px;
+}
+h2{
+    font-size: 40px;
+    }
+    .color_h2{
+        color: rgb(221, 219, 236);
+    }
+#line{
+    border-left: 10px solid;
+    border-image:5px;
+    border-radius: 10 px;
+    border-image-slice: 1;
+    }
+    .part_1{
+        display: flex;
+        margin: 100px;
+        width: 100%;
+    }
+    .part_1 img{
+        width: 80%;
+        margin: 50px;
+    }
+    .link_button{
+        font-size: 20px;
+        text-decoration: none;
+        padding: 10px 40px;
+        background-image: linear-gradient(red blueviolet);
+        border-radius: 5px;
+        background-color: salmon;
+            }
+    .miss-22{
+        text-align: center;
+    }
+    .flaxible{
+        display: flex;
+        margin-bottom: 100px;
+    }
+   .box{        
+        width: 40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        box-sizing: border-box;
+        box-shadow: 1px 1px;
+        border-radius: 12px;
+        padding: 3%
+    }
+    .mission{
+        background-color: rgb(241, 143, 192);
+    }
+    .vission{
+        background-color: rgb(100, 204, 100);
+    }
+    .goals{
+        background-color: rgb(153, 111, 236);
+    }
+  
